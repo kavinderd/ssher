@@ -1,3 +1,3 @@
 #Intro
 
-A Ruby library that will eventually be turned into a comman line app.  Just messing around with net-ssh on a local server box I have.
+A Ruby library to connect to a remote box via SSher::Connection and pass SSHer::Officer objects to it to execute commands and process output
